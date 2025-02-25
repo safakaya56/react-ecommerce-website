@@ -27,7 +27,7 @@ Bu, **React 19** ve **Vite** kullanılarak geliştirilmiş modern ve tamamen duy
 ## Görseller
 
 ![1](https://github.com/user-attachments/assets/2ad53c69-26c2-4ef1-8fe0-72d6948dbd6e)
-<br><br>
+<hr/>
 ![2](https://github.com/user-attachments/assets/64ed6925-8418-4ce7-9a5e-b8383de6c36c)
 <br><br>
 ![3](https://github.com/user-attachments/assets/32da86d7-5cf0-4ba9-ae65-3668ee840d1d)
