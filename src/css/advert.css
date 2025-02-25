@@ -1,0 +1,33 @@
+.mainContainerAdvert {
+    
+    position: relative;
+}
+
+.cards {
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 13rem;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Aicon {
+    font-size: 80px;
+    color: gold;
+}
+
+.card-title {
+    color: #1E3A8A;
+}
